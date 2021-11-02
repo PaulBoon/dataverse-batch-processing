@@ -1,0 +1,8 @@
+; copy this to the work dir (not in version control) and rename to config.ini
+[DATAVERSE]
+API_TOKEN = ---put-token-here---
+SERVER_URL = ---put-server-url-here---
+
+[FILES]
+PIDS_INPUT_FILE = ../work/pids_to_process.txt
+OUTPUT_DIR = ../work
